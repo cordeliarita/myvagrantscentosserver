@@ -42,7 +42,7 @@ echo "Now we will start and enable the docker engine..."
 systemctl start docker
 systemctl enable docker
 
-echo "Let us check now the status of Docker to make sure it is running and enabled :) "
+echo "Let us check now the status of Docker to make sure it is running and enabled..... "
 
 sleep 2
 
