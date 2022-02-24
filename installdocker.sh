@@ -29,7 +29,7 @@ echo "The docker repository was successfully set up"
 
 sleep 2
 
-echo "Now we will install and set up the docker engine....please be patient :) grab a cup of coffee as needed "
+echo "Now we will install and set up the docker engine....please be patient! grab a cup of coffee as needed "
 
 sleep 3
 sudo yum install docker-ce docker-ce-cli containerd.io -y
