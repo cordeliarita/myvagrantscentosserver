@@ -52,7 +52,7 @@ systemctl status docker
 
 if [ $? -eq 0 ]
 then
-echo "Everything is good to go :). We can now start using docker to build containers"
+echo "Everything is good to go. We can now start using docker to build containers"
 else
 echo "Check the file contents"
 fi
