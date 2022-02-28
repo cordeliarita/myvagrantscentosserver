@@ -5,7 +5,7 @@
 
 #This script is made by me to automate downloading docker from video
 
-echo "We will now start the process of downloading docker
+echo "We will now start the process of downloading docker"
 sleep 3
 
 echo "First we will check if there are any older docker versions installed in the system"
